@@ -1,0 +1,6 @@
+[package]
+name = "tokio-udp-multicast-chat"
+version = "0.1.0"
+authors = ["Henning Ottesen <henning@live.no>"]
+
+[dependencies]
